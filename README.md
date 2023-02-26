@@ -5,7 +5,7 @@ This project predicts stock market performance using sentiment analysis of tweet
 Please keep in mind that the sentiment analysis is not always accurate, it may be influenced by the use of slang, emojis, sarcasm and the fact that the tweets are short, so it is better to combine the sentiment analysis with other techniques to get a better understanding of the sentiments.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome.
 
 ## License
 MIT
